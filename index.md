@@ -9,4 +9,4 @@
 
 [Link button](https://www.hias.org/who/history){: .btn .btn-purple }
 
-`<button>Link button</button>`
+<button>Link button</button>

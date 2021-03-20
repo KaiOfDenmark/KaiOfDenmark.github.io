@@ -1,6 +1,10 @@
 ## Information:
 <form><button formaction="https://www.hias.org/who/history">HIAS</button></form>
+
+
 <form><button formaction="https://jfcs-eastbay.org/">JFCS</button></form>
+
+
 <form><button formaction="https://www.hias.org/tagged/volunteers">Volunteer Stories</button></form>
 
 
@@ -9,13 +13,13 @@
 
 
 **Find out how to contact your member of congress**
-<form><button formaction="https://www.house.gov/representatives/find-your-representative">Find Congress</button></form>
+<form><button formaction="https://www.house.gov/representatives/find-your-representative">Contact Your Congress Person</button></form>
 
 
 
 **Find out how to contact your member of the senate**
-<form><button formaction="https://www.senate.gov/senators/senators-contact.htm">Find Senate</button></form>
+<form><button formaction="https://www.senate.gov/senators/senators-contact.htm">Contact Your Senator</button></form>
 
 
 **Find out how to contact President Joe Biden**
-<form><button formaction="https://www.whitehouse.gov/get-involved/write-or-call/">Find President</button></form>
+<form><button formaction="https://www.whitehouse.gov/get-involved/write-or-call/">Contact the President</button></form>

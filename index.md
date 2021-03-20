@@ -1,11 +1,14 @@
 ## Information:
 <form><button formaction="https://www.hias.org/who/history">HIAS</button></form>
+**Learn About HIAS**
 
 
 <form><button formaction="https://jfcs-eastbay.org/">JFCS</button></form>
+**Learn About JFCS**
 
 
 <form><button formaction="https://www.hias.org/tagged/volunteers">Volunteer Stories</button></form>
+**Learn About the Work Other Volunteers Have Done**
 
 
 ## Write a Letter:

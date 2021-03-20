@@ -1,4 +1,7 @@
 ## Information:
+**Educate Yourself**
+
+
 <form><button formaction="https://www.hias.org/who/history">HIAS</button></form>
 **Learn About HIAS**
 

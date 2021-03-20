@@ -9,5 +9,5 @@
 
 [Link button](https://www.hias.org/who/history){: .btn .btn-purple }
 
-<form><button formaction="https://www.hias.org/who/history">Big Donkey button</button></form>
+<form><button formaction="https://www.hias.org/who/history">HIAS</button></form>
 

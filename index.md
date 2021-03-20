@@ -1,4 +1,4 @@
-###### Kai's Bar Mitzvah Project
+# Kai's Bar Mitzvah Project
 
 
 #### My Mission

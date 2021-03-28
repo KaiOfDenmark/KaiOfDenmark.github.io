@@ -49,10 +49,12 @@ Find out how to contact your elected offical or the president and express how yo
 **Donating is another way you can support this cause. By donating you provide the resources necessary to continue to help people in need. Donating is not mandatory so don't feel pressured to donate. But, if you do donate just know that a little goes a long way.**
 
 
-[button for fund raiser campaign goes here]
+[button for HIAS fund raiser campaign goes here]
 
 
-**JFCS Collection Drive Information**
-<form><button formaction="https://www.amazon.com/hz/wishlist/ls/1CW3QPCLGZMBC/ref=nav_wishlist_lists_1?_encoding=UTF8&type=wishlist&pldnSite=1">JFCS Collection Drive Wishlist</button></form>
+**JFCS Collection Drive Information:**
+
+
+<form><button formaction="https://docs.google.com/document/d/1XoJKZ4-oDwwkP0ZCfUvUcjKGlZYVhzGxuy0G5BxOgXs/edit">JFCS Collection Drive Information</button></form
 
 

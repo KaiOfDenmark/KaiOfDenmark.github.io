@@ -1,35 +1,41 @@
 ## Information:
-**Educate Yourself**
+**"Education is the most powerful weapon which you can use to change the world" - Nelson Mandela**
 
+
+**Education oneself is one of the first steps to making change. Learning about what has been happening and spreading the word is very powerful. I invite you to learn about the organizations we support with this website.**
+
+
+Learn more about what HIAS and JFCS do for Immigrants and Refugees.
 
 <form><button formaction="https://www.hias.org/who/history">HIAS</button></form>
-**Learn About HIAS**
 
 
 <form><button formaction="https://jfcs-eastbay.org/">JFCS</button></form>
-**Learn About JFCS**
 
 
 <form><button formaction="https://www.hias.org/tagged/volunteers">Volunteer Stories</button></form>
-**Learn About the Work Other Volunteers Have Done**
+**Learning about what others have done can inspire people, I know it inspired me, so take a little time to read about other people doing good in this world.**
 
 
 ## Write a Letter:
-**Use one of the links below for contact info, then write a letter! Tell them how you feel about refugees!**
+**"Our lives begin to end the day we become silent about things that matter" - Martin Luther King Jr.**
 
 
-**Find out how to contact your member of congress**
+**Writing and letter and telling our elected leaders how you feel is another form of helping our cause. I invite you to tell your elected officials how you feel about Immigrants and Refugees.**
+
+
+Find out how to contact your elected offical or the president and express how you feel in a letter.
+
+
 <form><button formaction="https://www.house.gov/representatives/find-your-representative">Contact Your Congress Person</button></form>
 
 
-
-**Find out how to contact your member of the senate**
 <form><button formaction="https://www.senate.gov/senators/senators-contact.htm">Contact Your Senator</button></form>
 
 
-**Find out how to contact President Joe Biden**
 <form><button formaction="https://www.whitehouse.gov/get-involved/write-or-call/">Contact the President</button></form>
 
 
 ## Donate
-**Donate to the Cause!**
+**"Giving is not just about making a donation. It is about making a difference" - Kathy Calvin**
+

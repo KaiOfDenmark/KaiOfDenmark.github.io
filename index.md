@@ -42,6 +42,6 @@ Find out how to contact your elected offical or the president and express how yo
 <form><button formaction="https://www.whitehouse.gov/get-involved/write-or-call/">Contact the President</button></form>
 
 
-## Donate
+## Donate:
 **"Giving is not just about making a donation. It is about making a difference" - Kathy Calvin**
 

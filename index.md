@@ -2,7 +2,7 @@
 **"Education is the most powerful weapon which you can use to change the world" - Nelson Mandela**
 
 
-**Education oneself is one of the first steps to making change. Learning about what has been happening and spreading the word is very powerful. I invite you to learn about the organizations we support with this website.**
+**Educating oneself is one of the first steps to making change. Learning about what has been happening and spreading the word is very powerful. I invite you to learn about the organizations we support with this website.**
 
 
 Learn more about what HIAS and JFCS do for Immigrants and Refugees.

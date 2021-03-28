@@ -3,11 +3,12 @@
 
 @import "{{ site.theme }}";
 
-ul.buttons {
-  background: none;
+.buttons ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-ul.buttons li {
+.buttons ul li {
   display: inline;
-  list-style: none;
 }

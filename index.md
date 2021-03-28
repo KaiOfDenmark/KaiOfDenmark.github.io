@@ -7,15 +7,12 @@
 
 Learn more about what HIAS and JFCS do for Immigrants and Refugees.
 
-<form><button formaction="https://www.hias.org/who/history">HIAS</button></form>
+<ul class="buttons">
+  <li><form><button formaction="https://www.hias.org/who/history">HIAS</button></form></li>
+  <li><form><button formaction="https://jfcs-eastbay.org/">JFCS</button></form></li>
+  <li><form><button formaction="https://www.hias.org/tagged/volunteers">Volunteer Stories</button></form></li>
+</ul>
 
-
-
-<form><button formaction="https://jfcs-eastbay.org/">JFCS</button></form>
-
-
-
-<form><button formaction="https://www.hias.org/tagged/volunteers">Volunteer Stories</button></form>
 **Learning about what others have done can inspire people, I know it inspired me, so take a little time to read about other people doing good in this world.**
 
 

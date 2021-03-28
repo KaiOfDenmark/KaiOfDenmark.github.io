@@ -6,6 +6,11 @@
 
 
 Learn more about what HIAS and JFCS do for Immigrants and Refugees.
+<ul class="buttons">
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+</ul>
 
 <ul class="buttons">
   <li><form><button formaction="https://www.hias.org/who/history">HIAS</button></form></li>

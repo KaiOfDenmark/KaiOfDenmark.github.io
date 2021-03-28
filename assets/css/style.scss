@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+ul.buttons {
+  background: none;
+}
+
+ul.buttons li {
+  display: inline;
+  list-style: none;
+}

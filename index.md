@@ -55,6 +55,5 @@ Find out how to contact your elected offical or the president and express how yo
 **JFCS Collection Drive Information:**
 
 
-<form><button formaction="https://docs.google.com/document/d/1XoJKZ4-oDwwkP0ZCfUvUcjKGlZYVhzGxuy0G5BxOgXs/edit">JFCS Collection Drive Information</button></form
-
+<form><button formaction="https://docs.google.com/document/d/1XoJKZ4-oDwwkP0ZCfUvUcjKGlZYVhzGxuy0G5BxOgXs/edit">JFCS Collection Drive Info</button></form>
 

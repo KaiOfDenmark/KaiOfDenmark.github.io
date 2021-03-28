@@ -6,13 +6,13 @@
 
 
 Learn more about what HIAS and JFCS do for Immigrants and Refugees.
-<ul class="buttons">
+<ul class="navButtons">
   <li>a</li>
   <li>b</li>
   <li>c</li>
 </ul>
 
-<ul class="buttons">
+<ul class="navButtons">
   <li><form><button formaction="https://www.hias.org/who/history">HIAS</button></form></li>
   <li><form><button formaction="https://jfcs-eastbay.org/">JFCS</button></form></li>
   <li><form><button formaction="https://www.hias.org/tagged/volunteers">Volunteer Stories</button></form></li>

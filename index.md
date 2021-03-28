@@ -25,7 +25,7 @@ Learn more about what HIAS and JFCS do for Immigrants and Refugees.
 **"Our lives begin to end the day we become silent about things that matter" - Martin Luther King Jr.**
 
 
-**Writing and letter and telling our elected leaders how you feel is another form of helping our cause. I invite you to tell your elected officials how you feel about Immigrants and Refugees.**
+**Writing and letter and telling our elected leaders how you feel is another form of helping our cause. I highly reccomend you tell your elected officials how you feel about Immigrants and Refugees to try to make the much needed change.**
 
 
 Find out how to contact your elected offical or the president and express how you feel in a letter.
@@ -44,4 +44,14 @@ Find out how to contact your elected offical or the president and express how yo
 
 ## Donate:
 **"Giving is not just about making a donation. It is about making a difference" - Kathy Calvin**
+
+
+**Donating is another way you can support this cause. By donating you provide the resources necessary to continue to help people in need. Donating is not mandatory so don't feel pressured to donate. But, if you do donate just know that a little goes a long way.**
+
+
+[button for fund raiser campaign goes here]
+
+
+<form><button formaction="https://www.amazon.com/hz/wishlist/ls/1CW3QPCLGZMBC/ref=nav_wishlist_lists_1?_encoding=UTF8&type=wishlist&pldnSite=1">JFCS Collection Drive Wishlist</button></form>
+
 
